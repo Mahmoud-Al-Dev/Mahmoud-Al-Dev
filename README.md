@@ -11,10 +11,12 @@ Focusing on **Deep Learning** and **MLOps**, specifically applying **RLHF (Reinf
 - **Scaling RLHF:** Moving from dummy models to production-ready RLHF loops for medical diagnostics.
 
 ### 🛠️ My MLOps Toolkit
-- **Cloud:** AWS (EC2, ECR, IAM, VPC)
-- **Automation:** Terraform, Ansible, Bash
-- **Containers:** Docker, NVIDIA-Docker (GPU Acceleration)
-- **Backend:** Python (FastAPI, Uvicorn), NumPy
+* **Cloud Infrastructure (IaC):** AWS (EC2, ECR, IAM, VPC, S3 & DynamoDB for Remote State)
+* **Provisioning & Orchestration:** Terraform (Modular Infrastructure), Bash (Automation Wrapper Scripts)
+* **Configuration Management:** Ansible (OS Hardening, Idempotent Package Management)
+* **CI/CD & DevOps:** GitHub Actions (Automated Workflows), Docker (Multi-stage Builds)
+* **AI/ML Hardware:** NVIDIA Container Toolkit (GPU Acceleration/CUDA Support)
+* **Backend & Inference:** Python (FastAPI, Uvicorn), NumPy (Signal Processing)
 
 ### 📫 How to reach me
 - **LinkedIn:** [[Link]](https://www.linkedin.com/in/mahmoud-selim-2960a2154/)
