@@ -14,8 +14,9 @@ Focusing on **Deep Learning** and **MLOps**, with a specialized focus on applyin
 ### 🛠️ My Tech Stack
 
 **🧠 Machine Learning & Signal Processing**
-* **Deep Learning & RL:** PyTorch, Gymnasium (Custom RL Environments), LSTMs, Proximal Policy Optimization (PPO)
+* **Deep Learning & RL:** PyTorch, Gymnasium (Custom RL Environments), LSTMs, Proximal Policy Optimization (PPO), 
 * **Data Science:** NumPy, Pandas, Scikit-Learn, SciPy (Advanced Signal Processing)
+* **MLflow:** MLOps, Experiment Tracking, Artifact Registry, Metric Logging.
 
 **☁️ Cloud Infrastructure & MLOps (IaC)**
 * **Cloud & Provisioning:** AWS (EC2, ECR, IAM, VPC, S3), Terraform (Modular Infrastructure)
